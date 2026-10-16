@@ -1,0 +1,16 @@
+{
+  "name": "Kalkulator CAS",
+  "short_name": "Kalkulator",
+  "description": "Kalkulator naukowy z CAS: równania i układy, całki i pochodne, granice, sumy, nierówności, równania różniczkowe, wykresy funkcji, macierze i statystyka",
+  "lang": "pl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f4f8",
+  "theme_color": "#0b5fff",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
